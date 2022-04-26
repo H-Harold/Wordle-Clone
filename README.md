@@ -1,2 +1,2 @@
 # Wordle-Clone
-Clone of wordle
+Clone of the popular word game [Wordle](https://www.quora.com)
